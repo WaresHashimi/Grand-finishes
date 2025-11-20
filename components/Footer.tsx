@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import { Phone, MapPin, Star, Clock, Mail, ChevronRight } from 'lucide-react';
+import { Phone, MapPin, Star, Mail, ChevronRight } from 'lucide-react';
 import { BUSINESS_INFO, NAV_ITEMS, IMAGES } from '../constants';
 
 const Footer: React.FC = () => {
